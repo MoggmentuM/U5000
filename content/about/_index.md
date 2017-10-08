@@ -1,7 +1,6 @@
 ﻿---
 title: "About"
 description: "Martin Forslund:"
-featured_image: ''
 ---
 
 Lorem ipsum dolor sit amet, cibo efficiantur at pri, illud persius accusata quo ad, pro et indoctum dissentias. Fugit velit euripidis ut nec, sed nobis commune instructior ut, vis sanctus vocibus te. Forensibus sadipscing usu ne, cum justo munere integre cu. Graece salutatus similique pri ei, duo omittam lobortis an, eu dicta civibus nec. Ad eam quot tincidunt interpretaris.
