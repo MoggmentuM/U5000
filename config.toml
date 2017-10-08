@@ -8,4 +8,4 @@ theme = "ananke"
 SectionPagesMenu = "main"
 [params]
 twitter = "https://twitter.com/t4ostra"
-featured_image = "/image/Riddarholmen_from_Stockholm_City_Hall_tower.jpg"
+featured_image = "static/images/image.jpg"
