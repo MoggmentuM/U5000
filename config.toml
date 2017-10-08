@@ -1,4 +1,8 @@
 baseURL = "https://driver-pearl-81600.netlify.com/"
+
 languageCode = "en-us"
+
 title = "Martin Forslund"
+
 theme = "ananke"
+twitter = "https://twitter.com/t4ostra"
